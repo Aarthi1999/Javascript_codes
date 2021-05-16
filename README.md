@@ -17,7 +17,7 @@ Each number only occurs once in the array except one number which occurs twice.
 Write a js code to find the repeated number.
 e.g $arr = array(0,1,2,3,4,5,6,7,7,8,9,10...................);
 
-Question 4=>
+Question 4=>sorting_objects.js
 Assume there is a object of this format 
 var obj = {
  “id” : 4, “name” : “abc”,
